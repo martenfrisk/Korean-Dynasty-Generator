@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/korean-dynasty-generator/static/css/main.fcef8cb9.chunk.css",
-    "main.js": "/korean-dynasty-generator/static/js/main.1a0a87b0.chunk.js",
-    "main.js.map": "/korean-dynasty-generator/static/js/main.1a0a87b0.chunk.js.map",
-    "runtime-main.js": "/korean-dynasty-generator/static/js/runtime-main.3698a204.js",
-    "runtime-main.js.map": "/korean-dynasty-generator/static/js/runtime-main.3698a204.js.map",
-    "static/js/2.6bd9d8dd.chunk.js": "/korean-dynasty-generator/static/js/2.6bd9d8dd.chunk.js",
-    "static/js/2.6bd9d8dd.chunk.js.map": "/korean-dynasty-generator/static/js/2.6bd9d8dd.chunk.js.map",
-    "index.html": "/korean-dynasty-generator/index.html",
-    "precache-manifest.0e761ffd3b62f8ae68f1cb9a0480d2fc.js": "/korean-dynasty-generator/precache-manifest.0e761ffd3b62f8ae68f1cb9a0480d2fc.js",
-    "service-worker.js": "/korean-dynasty-generator/service-worker.js",
-    "static/css/main.fcef8cb9.chunk.css.map": "/korean-dynasty-generator/static/css/main.fcef8cb9.chunk.css.map",
-    "static/js/2.6bd9d8dd.chunk.js.LICENSE.txt": "/korean-dynasty-generator/static/js/2.6bd9d8dd.chunk.js.LICENSE.txt"
+    "main.css": "/Korean-Dynasty-Generator/static/css/main.e7a1a9e5.chunk.css",
+    "main.js": "/Korean-Dynasty-Generator/static/js/main.844ab17b.chunk.js",
+    "main.js.map": "/Korean-Dynasty-Generator/static/js/main.844ab17b.chunk.js.map",
+    "runtime-main.js": "/Korean-Dynasty-Generator/static/js/runtime-main.d2362a92.js",
+    "runtime-main.js.map": "/Korean-Dynasty-Generator/static/js/runtime-main.d2362a92.js.map",
+    "static/js/2.d3624721.chunk.js": "/Korean-Dynasty-Generator/static/js/2.d3624721.chunk.js",
+    "static/js/2.d3624721.chunk.js.map": "/Korean-Dynasty-Generator/static/js/2.d3624721.chunk.js.map",
+    "index.html": "/Korean-Dynasty-Generator/index.html",
+    "precache-manifest.53d9df33aab813cb2e989b14cf687090.js": "/Korean-Dynasty-Generator/precache-manifest.53d9df33aab813cb2e989b14cf687090.js",
+    "service-worker.js": "/Korean-Dynasty-Generator/service-worker.js",
+    "static/css/main.e7a1a9e5.chunk.css.map": "/Korean-Dynasty-Generator/static/css/main.e7a1a9e5.chunk.css.map",
+    "static/js/2.d3624721.chunk.js.LICENSE.txt": "/Korean-Dynasty-Generator/static/js/2.d3624721.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3698a204.js",
-    "static/js/2.6bd9d8dd.chunk.js",
-    "static/css/main.fcef8cb9.chunk.css",
-    "static/js/main.1a0a87b0.chunk.js"
+    "static/js/runtime-main.d2362a92.js",
+    "static/js/2.d3624721.chunk.js",
+    "static/css/main.e7a1a9e5.chunk.css",
+    "static/js/main.844ab17b.chunk.js"
   ]
 }
